@@ -9,7 +9,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/bulbasaur.jpg?raw=true",
     "type": "Grass",
     "hobbies": ["Photosynthesis", "Walking", "Throwing seeds"],
-    "evolutionId": 2
+    "evolution": {
+      "id": 2,
+      "name": "Ivysaur",
+      "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/ivysaur.jpg?raw=true",
+      "powerLevel": 8000,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 4,
@@ -21,7 +28,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/charmander.jpg?raw=true",
     "type": "Fire",
     "hobbies": ["Spitting flames", "Running", "Climbing"],
-    "evolutionId": 5
+    "evolution": {
+      "id": 5,
+      "name": "Charmeleon",
+      "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/charmeleon.jpg?raw=true",
+      "powerLevel": 8500,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 7,
@@ -33,7 +47,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/squirtle.jpg?raw=true",
     "type": "Water",
     "hobbies": ["Swimming", "Spraying water", "Diving"],
-    "evolutionId": 8
+    "evolution": {
+      "id": 8,
+      "name": "Wartortle",
+      "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/wartortle.jpg?raw=true",
+      "powerLevel": 8300,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 25,
@@ -45,7 +66,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/pikachu.jpg?raw=true",
     "type": "Electric",
     "hobbies": ["Tail slapping", "Giving electric shocks", "Running"],
-    "evolutionId": 26
+    "evolution": {
+      "id": 26,
+      "name": "Raichu",
+      "description": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/raichu.jpg?raw=true",
+      "powerLevel": 9000,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 39,
@@ -57,7 +85,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/jigglypuff.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Singing", "Drawing on sleeping people", "Dreaming"],
-    "evolutionId": 40
+    "evolution": {
+      "id": 40,
+      "name": "Wigglytuff",
+      "description": "Its body is very soft. Once it inflates, it can bounce like a balloon.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/wigglytuff.jpg?raw=true",
+      "powerLevel": 7800,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 52,
@@ -69,7 +104,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/meowth.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Collecting coins", "Talking", "Sneaking"],
-    "evolutionId": 53
+    "evolution": {
+      "id": 53,
+      "name": "Persian",
+      "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/persian.jpg?raw=true",
+      "powerLevel": 8100,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 54,
@@ -81,7 +123,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/psyduck.jpg?raw=true",
     "type": "Water",
     "hobbies": ["Being confused", "Spraying water", "Having headaches"],
-    "evolutionId": 55
+    "evolution": {
+      "id": 55,
+      "name": "Golduck",
+      "description": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/golduck.jpg?raw=true",
+      "powerLevel": 8700,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 66,
@@ -93,7 +142,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/machop.jpg?raw=true",
     "type": "Fighting",
     "hobbies": ["Lifting weights", "Sparring", "Running"],
-    "evolutionId": 67
+    "evolution": {
+      "id": 67,
+      "name": "Machoke",
+      "description": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/machoke.jpg?raw=true",
+      "powerLevel": 9200,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 92,
@@ -105,7 +161,14 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/gastly.jpg?raw=true",
     "type": "Ghost",
     "hobbies": ["Scaring", "Going through walls", "Laughing"],
-    "evolutionId": 93
+    "evolution": {
+      "id": 93,
+      "name": "Haunter",
+      "description": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/haunter.jpg?raw=true",
+      "powerLevel": 9400,
+      "canMegaEvolve": false
+    }
   },
   {
     "id": 133,
@@ -117,6 +180,13 @@
     "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/eevee.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Playing", "Exploring", "Adapting"],
-    "evolutionId": 134
+    "evolution": {
+      "id": 134,
+      "name": "Vaporeon",
+      "description": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
+      "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/vaporeon.jpg?raw=true",
+      "powerLevel": 8500,
+      "canMegaEvolve": false
+    }
   }
 ]
