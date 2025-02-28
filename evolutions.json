@@ -2,7 +2,7 @@
   {
     "id": 2,
     "name": "Ivysaur",
-    "description": "The evolved form of Bulbasaur.",
+    "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
     "imageUrl": "https://example.com/ivysaur.png",
     "powerLevel": 8000,
     "canMegaEvolve": false
@@ -10,7 +10,7 @@
   {
     "id": 5,
     "name": "Charmeleon",
-    "description": "The evolved form of Charmander.",
+    "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
     "imageUrl": "https://example.com/charmeleon.png",
     "powerLevel": 8500,
     "canMegaEvolve": false
@@ -18,7 +18,7 @@
   {
     "id": 8,
     "name": "Wartortle",
-    "description": "The evolved form of Squirtle.",
+    "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
     "imageUrl": "https://example.com/wartortle.png",
     "powerLevel": 8300,
     "canMegaEvolve": false
@@ -26,7 +26,7 @@
   {
     "id": 26,
     "name": "Raichu",
-    "description": "The evolved form of Pikachu.",
+    "description": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
     "imageUrl": "https://example.com/raichu.png",
     "powerLevel": 9000,
     "canMegaEvolve": false
@@ -34,7 +34,7 @@
   {
     "id": 40,
     "name": "Wigglytuff",
-    "description": "The evolved form of Jigglypuff.",
+    "description": "Its body is very soft. Once it inflates, it can bounce like a balloon.",
     "imageUrl": "https://example.com/wigglytuff.png",
     "powerLevel": 7800,
     "canMegaEvolve": false
@@ -42,7 +42,7 @@
   {
     "id": 53,
     "name": "Persian",
-    "description": "The evolved form of Meowth.",
+    "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
     "imageUrl": "https://example.com/persian.png",
     "powerLevel": 8100,
     "canMegaEvolve": false
@@ -50,7 +50,7 @@
   {
     "id": 55,
     "name": "Golduck",
-    "description": "The evolved form of Psyduck.",
+    "description": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
     "imageUrl": "https://example.com/golduck.png",
     "powerLevel": 8700,
     "canMegaEvolve": false
@@ -58,7 +58,7 @@
   {
     "id": 67,
     "name": "Machoke",
-    "description": "The evolved form of Machop.",
+    "description": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
     "imageUrl": "https://example.com/machoke.png",
     "powerLevel": 9200,
     "canMegaEvolve": false
@@ -66,7 +66,7 @@
   {
     "id": 93,
     "name": "Haunter",
-    "description": "The evolved form of Gastly.",
+    "description": "Because of its ability to slip through block walls, it is said to be from another dimension.",
     "imageUrl": "https://example.com/haunter.png",
     "powerLevel": 9400,
     "canMegaEvolve": false
@@ -74,7 +74,7 @@
   {
     "id": 134,
     "name": "Vaporeon",
-    "description": "A water-type evolution of Eevee.",
+    "description": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
     "imageUrl": "https://example.com/vaporeon.png",
     "powerLevel": 8500,
     "canMegaEvolve": false
