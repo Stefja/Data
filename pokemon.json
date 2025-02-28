@@ -6,7 +6,7 @@
     "age": 7,
     "active": false,
     "birthdate": "2017-09-30",
-    "imageUrl": "https://example.com/bulbasaur.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/bulbasaur.jpg?raw=true",
     "type": "Grass",
     "hobbies": ["Photosynthesis", "Walking", "Throwing seeds"],
     "evolutionId": 2
@@ -18,7 +18,7 @@
     "age": 6,
     "active": true,
     "birthdate": "2018-06-15",
-    "imageUrl": "https://example.com/charmander.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/charmander.jpg?raw=true",
     "type": "Fire",
     "hobbies": ["Spitting flames", "Running", "Climbing"],
     "evolutionId": 5
@@ -30,7 +30,7 @@
     "age": 5,
     "active": true,
     "birthdate": "2019-04-10",
-    "imageUrl": "https://example.com/squirtle.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/squirtle.jpg?raw=true",
     "type": "Water",
     "hobbies": ["Swimming", "Spraying water", "Diving"],
     "evolutionId": 8
@@ -42,7 +42,7 @@
     "age": 5,
     "active": true,
     "birthdate": "2019-02-27",
-    "imageUrl": "https://example.com/pikachu.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/pikachu.jpg?raw=true",
     "type": "Electric",
     "hobbies": ["Tail slapping", "Giving electric shocks", "Running"],
     "evolutionId": 26
@@ -54,7 +54,7 @@
     "age": 4,
     "active": false,
     "birthdate": "2020-07-25",
-    "imageUrl": "https://example.com/jigglypuff.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/jigglypuff.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Singing", "Drawing on sleeping people", "Dreaming"],
     "evolutionId": 40
@@ -66,7 +66,7 @@
     "age": 6,
     "active": true,
     "birthdate": "2018-12-01",
-    "imageUrl": "https://example.com/meowth.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/meowth.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Collecting coins", "Talking", "Sneaking"],
     "evolutionId": 53
@@ -78,7 +78,7 @@
     "age": 5,
     "active": true,
     "birthdate": "2019-03-18",
-    "imageUrl": "https://example.com/psyduck.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/psyduck.jpg?raw=true",
     "type": "Water",
     "hobbies": ["Being confused", "Spraying water", "Having headaches"],
     "evolutionId": 55
@@ -90,7 +90,7 @@
     "age": 6,
     "active": true,
     "birthdate": "2018-08-22",
-    "imageUrl": "https://example.com/machop.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/machop.jpg?raw=true",
     "type": "Fighting",
     "hobbies": ["Lifting weights", "Sparring", "Running"],
     "evolutionId": 67
@@ -102,7 +102,7 @@
     "age": 8,
     "active": true,
     "birthdate": "2016-10-13",
-    "imageUrl": "https://example.com/gastly.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/gastly.jpg?raw=true",
     "type": "Ghost",
     "hobbies": ["Scaring", "Going through walls", "Laughing"],
     "evolutionId": 93
@@ -114,7 +114,7 @@
     "age": 4,
     "active": true,
     "birthdate": "2020-05-20",
-    "imageUrl": "https://example.com/eevee.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/eevee.jpg?raw=true",
     "type": "Normal",
     "hobbies": ["Playing", "Exploring", "Adapting"],
     "evolutionId": 134

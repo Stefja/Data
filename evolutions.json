@@ -3,7 +3,7 @@
     "id": 2,
     "name": "Ivysaur",
     "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
-    "imageUrl": "https://example.com/ivysaur.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/ivysaur.jpg?raw=true",
     "powerLevel": 8000,
     "canMegaEvolve": false
   },
@@ -11,7 +11,7 @@
     "id": 5,
     "name": "Charmeleon",
     "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
-    "imageUrl": "https://example.com/charmeleon.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/charmeleon.jpg?raw=true",
     "powerLevel": 8500,
     "canMegaEvolve": false
   },
@@ -19,7 +19,7 @@
     "id": 8,
     "name": "Wartortle",
     "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
-    "imageUrl": "https://example.com/wartortle.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/wartortle.jpg?raw=true",
     "powerLevel": 8300,
     "canMegaEvolve": false
   },
@@ -27,7 +27,7 @@
     "id": 26,
     "name": "Raichu",
     "description": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
-    "imageUrl": "https://example.com/raichu.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/raichu.jpg?raw=true",
     "powerLevel": 9000,
     "canMegaEvolve": false
   },
@@ -35,7 +35,7 @@
     "id": 40,
     "name": "Wigglytuff",
     "description": "Its body is very soft. Once it inflates, it can bounce like a balloon.",
-    "imageUrl": "https://example.com/wigglytuff.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/wigglytuff.jpg?raw=true",
     "powerLevel": 7800,
     "canMegaEvolve": false
   },
@@ -43,7 +43,7 @@
     "id": 53,
     "name": "Persian",
     "description": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
-    "imageUrl": "https://example.com/persian.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/persian.jpg?raw=true",
     "powerLevel": 8100,
     "canMegaEvolve": false
   },
@@ -51,7 +51,7 @@
     "id": 55,
     "name": "Golduck",
     "description": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
-    "imageUrl": "https://example.com/golduck.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/golduck.jpg?raw=true",
     "powerLevel": 8700,
     "canMegaEvolve": false
   },
@@ -59,7 +59,7 @@
     "id": 67,
     "name": "Machoke",
     "description": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
-    "imageUrl": "https://example.com/machoke.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/machoke.jpg?raw=true",
     "powerLevel": 9200,
     "canMegaEvolve": false
   },
@@ -67,7 +67,7 @@
     "id": 93,
     "name": "Haunter",
     "description": "Because of its ability to slip through block walls, it is said to be from another dimension.",
-    "imageUrl": "https://example.com/haunter.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/haunter.jpg?raw=true",
     "powerLevel": 9400,
     "canMegaEvolve": false
   },
@@ -75,7 +75,7 @@
     "id": 134,
     "name": "Vaporeon",
     "description": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
-    "imageUrl": "https://example.com/vaporeon.png",
+    "imageUrl": "https://github.com/Stefja/Milestone0/blob/main/images/vaporeon.jpg?raw=true",
     "powerLevel": 8500,
     "canMegaEvolve": false
   }
