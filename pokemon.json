@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "description": "A grass and poison Pokémon with a plant on its back.",
+      "age": 7,
+      "active": false,
+      "birthdate": "2017-09-30",
+      "imageUrl": "https://example.com/bulbasaur.png",
+      "type": "Grass",
+      "hobbies": ["Photosynthesis", "Walking", "Throwing seeds"],
+      "evolutionId": 3
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "description": "A fire Pokémon with a flame on its tail.",
+      "age": 6,
+      "active": true,
+      "birthdate": "2018-06-15",
+      "imageUrl": "https://example.com/charmander.png",
+      "type": "Fire",
+      "hobbies": ["Spitting flames", "Running", "Climbing"],
+      "evolutionId": 6
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "description": "A water Pokémon with a hard shell.",
+      "age": 5,
+      "active": true,
+      "birthdate": "2019-04-10",
+      "imageUrl": "https://example.com/squirtle.png",
+      "type": "Water",
+      "hobbies": ["Swimming", "Spraying water", "Diving"],
+      "evolutionId": 9
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "description": "A small, yellow electric mouse Pokémon.",
+      "age": 5,
+      "active": true,
+      "birthdate": "2019-02-27",
+      "imageUrl": "https://example.com/pikachu.png",
+      "type": "Electric",
+      "hobbies": ["Tail slapping", "Giving electric shocks", "Running"],
+      "evolutionId": 26
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "description": "A cute Pokémon with a sleep-inducing song.",
+      "age": 4,
+      "active": false,
+      "birthdate": "2020-07-25",
+      "imageUrl": "https://example.com/jigglypuff.png",
+      "type": "Normal",
+      "hobbies": ["Singing", "Drawing on sleeping people", "Dreaming"],
+      "evolutionId": 40
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "description": "A cat-like Pokémon that can talk.",
+      "age": 6,
+      "active": true,
+      "birthdate": "2018-12-01",
+      "imageUrl": "https://example.com/meowth.png",
+      "type": "Normal",
+      "hobbies": ["Collecting coins", "Talking", "Sneaking"],
+      "evolutionId": 53
+    },
+    {
+      "id": 54,
+      "name": "Psyduck",
+      "description": "A Pokémon that constantly has headaches.",
+      "age": 5,
+      "active": true,
+      "birthdate": "2019-03-18",
+      "imageUrl": "https://example.com/psyduck.png",
+      "type": "Water",
+      "hobbies": ["Being confused", "Spraying water", "Having headaches"],
+      "evolutionId": 55
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "description": "A strong fighting Pokémon.",
+      "age": 6,
+      "active": true,
+      "birthdate": "2018-08-22",
+      "imageUrl": "https://example.com/machop.png",
+      "type": "Fighting",
+      "hobbies": ["Lifting weights", "Sparring", "Running"],
+      "evolutionId": 68
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "description": "A shadowy Pokémon that scares people.",
+      "age": 8,
+      "active": true,
+      "birthdate": "2016-10-13",
+      "imageUrl": "https://example.com/gengar.png",
+      "type": "Ghost",
+      "hobbies": ["Scaring", "Going through walls", "Laughing"],
+      "evolutionId": 94
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "description": "A unique Pokémon with the ability to evolve into multiple forms.",
+        "age": 4,
+        "active": true,
+        "birthdate": "2020-05-20",
+        "imageUrl": "https://example.com/eevee.png",
+        "type": "Normal",
+        "hobbies": ["Playing", "Exploring", "Adapting"],
+        "evolutionId": 134
+    }
+]

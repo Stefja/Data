@@ -1,0 +1,82 @@
+[
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "description": "A large Pokémon with a blooming plant on its back.",
+      "imageUrl": "https://example.com/venusaur.png",
+      "powerLevel": 8900,
+      "canMegaEvolve": true
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "description": "A powerful fire and flying Pokémon.",
+      "imageUrl": "https://example.com/charizard.png",
+      "powerLevel": 9500,
+      "canMegaEvolve": true
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "description": "A strong Pokémon with powerful water cannons.",
+      "imageUrl": "https://example.com/blastoise.png",
+      "powerLevel": 9200,
+      "canMegaEvolve": true
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "description": "A larger electric mouse Pokémon.",
+      "imageUrl": "https://example.com/raichu.png",
+      "powerLevel": 9000,
+      "canMegaEvolve": false
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "description": "A fluffy, larger version of Jigglypuff.",
+      "imageUrl": "https://example.com/wigglytuff.png",
+      "powerLevel": 7800,
+      "canMegaEvolve": false
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "description": "An elegant, cat-like Pokémon.",
+      "imageUrl": "https://example.com/persian.png",
+      "powerLevel": 8100,
+      "canMegaEvolve": false
+    },
+    {
+      "id": 55,
+      "name": "Golduck",
+      "description": "A slim, fast water Pokémon.",
+      "imageUrl": "https://example.com/golduck.png",
+      "powerLevel": 8700,
+      "canMegaEvolve": false
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "description": "A muscular Pokémon with four arms.",
+      "imageUrl": "https://example.com/machamp.png",
+      "powerLevel": 9600,
+      "canMegaEvolve": false
+    },
+    {
+      "id": 94,
+      "name": "Mega Gengar",
+      "description": "An even darker and stronger version of Gengar.",
+      "imageUrl": "https://example.com/mega_gengar.png",
+      "powerLevel": 9900,
+      "canMegaEvolve": true
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "description": "A water-type evolution of Eevee.",
+        "imageUrl": "https://example.com/vaporeon.png",
+        "powerLevel": 8500,
+        "canMegaEvolve": false
+    }
+]
